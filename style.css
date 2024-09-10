@@ -1,0 +1,22 @@
+body {
+   background-color: rgba(200,200,200,0.5);
+   color: rgba(60,60,30,1);
+}
+
+
+
+.main-heading{
+   text-align: center;
+   font: "Lucida Console", momospace;
+   font-size:45px;
+   color: rgba(130,130,97,1);
+}
+
+ul h3{
+   font-size: 30px;
+   color: rgba(60,60,30,1);
+}
+
+li, a{
+   color: brown;
+}
