@@ -17,6 +17,15 @@ ul h3{
    color: rgba(60,60,30,1);
 }
 
-li, a{
+li,li a{
    color: brown;
+}
+
+a{
+   color:blue;
+}
+
+
+.ingredients li{
+   color: crimson;
 }
