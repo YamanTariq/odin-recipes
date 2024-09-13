@@ -37,7 +37,7 @@ body {
     height: 370px;
     display: inline-block;
     margin-right: 30px;
-    background-color: rgba(95,158,160,0.5);
+    background-color: rgba(95,158,160,0.3);
     border-radius: 5px;
 }
 
@@ -57,7 +57,12 @@ body {
     color: black;
 }
 
-
+.card a{
+    text-decoration: none
+}
+.a :hover{
+    background-color: rgba(95,158,160,0.6);
+}
 
 
 
