@@ -51,7 +51,11 @@ body {
     border-radius: 4px;
 }
 
-
+.card p{
+    text-align: center;
+    font-size: 27px;
+    color: black;
+}
 
 
 
