@@ -52,19 +52,15 @@ body {
 }
 
 .card p{
-    text-align: center;
     font-size: 27px;
     color: black;
+    display:block;
+    text-align: center;
 }
 
 .card a{
     text-decoration: none
 }
-.a :hover{
-    background-color: rgba(95,158,160,0.6);
-}
-
-
 
 
 
